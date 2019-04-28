@@ -1,0 +1,12 @@
+﻿<settings>
+<category label="INFORMAÇÕES">
+<setting id="msg1" label="[B][COLOR white]CONTATO: [COLOR gold] 85 9 8778-5312[/COLOR][/COLOR][/B]" value="true" type="bool" default="true"/>
+<setting id="msg2" label="[B][COLOR white]INSTAGRAM: [COLOR gold] @_AM.OFICIAL[/COLOR][/COLOR][/B]" value="true" type="bool" default="true"/>
+<setting id="msg3" label="[B][COLOR white]FACEBOOK: [COLOR gold] AM PLAY[/COLOR][/COLOR][/B]" value="true" type="bool" default="true"/>
+<setting id="donotshowbychannels" label="" visible="false" type="bool" default="false"/>
+<setting id="add_playlist" type="bool" visible="false" label="Adicionar items com múltiplos links como playlists" default="true"/>
+<setting id="ask_playlist_items" type="bool" visible="false" label="Escolher items do Menu de Contexto" default="true" />
+<setting id="parentalblockedpin" label="Pin do Controle Parental" visible="true" type="text" option="hidden" default="1234"/> 
+<setting id="parentalblocked" label="Controle Parental ativado?" type="bool" visible="true" default="false" enable="true"/>
+</category>
+</settings>
